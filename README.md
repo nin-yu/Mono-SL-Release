@@ -2,13 +2,13 @@
 
 Mono-BPS（结构光 BPS 系统）Windows x64 安装程序与运行环境发布仓库。
 
-> 安装包体积较大，统一通过 [Releases](../../releases) 发布，不放进 Git 历史。
+> 安装包体积较大，统一通过 [Releases](https://github.com/nin-yu/Mono-SL-Release/releases) 发布，不放进 Git 历史。
 
 ## 最新版本
 
 | 版本 | 安装包 | 大小 | 构建时间 |
 |------|--------|------|----------|
-| v1.13.1 | [MonoBPS_Setup_1.13.1_x64.exe](../../releases/download/v1.13.1/MonoBPS_Setup_1.13.1_x64.exe) | 103.7 MiB | 2026-10-24 |
+| v1.13.1 | [MonoBPS_Setup_1.13.1_x64.exe](https://github.com/nin-yu/Mono-SL-Release/releases/download/v1.13.1/MonoBPS_Setup_1.13.1_x64.exe) | 103.7 MiB | 2026-10-24 |
 
 SHA-256：`4343ec33044cc06540a48bb417aa8ea69c311e935eb610f776cecb134fc83ebe`
 
