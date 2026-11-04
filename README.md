@@ -37,6 +37,19 @@ SHA-256：`4343ec33044cc06540a48bb417aa8ea69c311e935eb610f776cecb134fc83ebe`
 | C++ 运行库 | VC++ 2015-2022 x64（`vcredist_x64.exe`） |
 | OpenMP 运行库 | `vcomp140.dll` |
 
+## 驱动环境（单独发布）
+
+相机与投影仪的厂商工具/驱动安装包单独发布于 [BPS 驱动环境 v1.0.0](https://github.com/nin-yu/Mono-SL-Release/releases/tag/drivers-v1.0.0)，按现场硬件选装：
+
+| 文件 | 用途 |
+|------|------|
+| `MVS_STD_4.6.0_250902.exe` | 海康威视 MVS 客户端与相机驱动（4.6.0） |
+| `MVS_SDK_V4_6_1_3_MVFG_V2_6_1_3_VC90_Runtime_STD.exe` | 海康 MVS SDK 运行库（VC90 Runtime，4.6.1.3） |
+| `MVviewer_2.4.2.9.CXP.GEN_Build20240805.exe` | IMV 微视 MVviewer 相机客户端与驱动 |
+| `DLPLCR4500GUI-4.4.1.zip` | TI DLP LightCrafter 4500 投影仪控制/固件烧写工具 |
+
+> 驱动环境仅在相机首次接入、固件烧写或现场调试时使用；Mono-BPS 运行所需的运行库已随安装包内置。
+
 ## 硬件要求
 
 - 结构光投影仪：DLP4500 / DLPC350（USB HID）
