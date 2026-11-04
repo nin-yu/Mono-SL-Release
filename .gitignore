@@ -1,0 +1,6 @@
+# 安装包与大体积压缩包通过 GitHub Releases 发布，不入库
+*.exe
+*.msi
+*.zip
+*.7z
+*.rar
